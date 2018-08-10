@@ -12,6 +12,7 @@
 		013C46E6211DE07F003A08C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013C46E4211DE07F003A08C8 /* Main.storyboard */; };
 		013C46E8211DE07F003A08C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 013C46E7211DE07F003A08C8 /* Assets.xcassets */; };
 		013C46EB211DE07F003A08C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013C46E9211DE07F003A08C8 /* LaunchScreen.storyboard */; };
+		013C46F3211DE39E003A08C8 /* yosemite-meadows.png in Resources */ = {isa = PBXBuildFile; fileRef = 013C46F2211DE39E003A08C8 /* yosemite-meadows.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		013C46E7211DE07F003A08C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		013C46EA211DE07F003A08C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		013C46EC211DE07F003A08C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		013C46F2211DE39E003A08C8 /* yosemite-meadows.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yosemite-meadows.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		013C46DF211DE07F003A08C8 /* PinchMe */ = {
 			isa = PBXGroup;
 			children = (
+				013C46F2211DE39E003A08C8 /* yosemite-meadows.png */,
 				013C46E0211DE07F003A08C8 /* AppDelegate.swift */,
 				013C46E2211DE07F003A08C8 /* ViewController.swift */,
 				013C46E4211DE07F003A08C8 /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				013C46EB211DE07F003A08C8 /* LaunchScreen.storyboard in Resources */,
 				013C46E8211DE07F003A08C8 /* Assets.xcassets in Resources */,
 				013C46E6211DE07F003A08C8 /* Main.storyboard in Resources */,
+				013C46F3211DE39E003A08C8 /* yosemite-meadows.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
